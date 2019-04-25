@@ -172,3 +172,6 @@ Combine rows from two tables based on some logical relationship between them (co
 
 **Scalar functions** (LOWER, UPPER) operate on individual entries
 
+**Functions** Custom function with 0 or many input parameters, but 0 or 1 output. DML is not allowed.
+
+**Stored Procedures** Custom function with 0 or many input parameters, but 0 or many output parameters. DML allowed.
